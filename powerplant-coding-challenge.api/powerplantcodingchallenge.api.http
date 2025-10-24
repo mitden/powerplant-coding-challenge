@@ -1,0 +1,6 @@
+@powerplantcodingchallenge.api_HostAddress = http://localhost:8888
+
+POST {{powerplantcodingchallenge.api_HostAddress}}/productionplan/
+Accept: application/json
+
+###

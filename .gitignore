@@ -1,0 +1,9 @@
+**/.classpath
+**/.env
+**/.git
+**/bin
+**/node_modules
+**/npm-debug.log
+**/obj
+**/.vs
+
